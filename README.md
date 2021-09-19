@@ -31,6 +31,9 @@ Options:
 ## Run script examples
 
 Run `node index.js find getByType rail`
+
 Run `node index.js find getByType car`
+
 Run `node index.js find getByAfterDate 2019-10-31`
+
 Run `node index.js find getBySupplier pao`
